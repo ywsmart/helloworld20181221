@@ -29,5 +29,6 @@ public class DemoTest {
         errorCollector.checkThat(1,equalTo(2));
         errorCollector.checkThat(1,equalTo(2));
         errorCollector.checkThat(1,equalTo(2));
+        errorCollector.checkThat(1,equalTo(2));
     }
 }
