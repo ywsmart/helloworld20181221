@@ -1,0 +1,47 @@
+{
+  "uid" : "910acb3ba6c6a5a8",
+  "name" : "shouldAnswerWithTrue",
+  "fullName" : "com.cn.hogwarts.AppTest.shouldAnswerWithTrue",
+  "historyId" : "3994cd86f12be7c984327c4acacfe45a",
+  "time" : {
+    "start" : 1545923442504,
+    "stop" : 1545923442511,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.cn.hogwarts"
+  }, {
+    "name" : "testClass",
+    "value" : "com.cn.hogwarts.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "shouldAnswerWithTrue"
+  }, {
+    "name" : "suite",
+    "value" : "com.cn.hogwarts.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "YangWang-PC"
+  }, {
+    "name" : "thread",
+    "value" : "660@YangWang-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "910acb3ba6c6a5a8.json",
+  "parameterValues" : [ ]
+}

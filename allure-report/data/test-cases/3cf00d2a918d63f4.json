@@ -1,0 +1,89 @@
+{
+  "uid" : "3cf00d2a918d63f4",
+  "name" : "fun4",
+  "fullName" : "com.cn.hogwarts.iostudy.ReaderDemoTest.fun4",
+  "historyId" : "2a69a51458431b93bbafdc03076dfaba",
+  "time" : {
+    "start" : 1545925416858,
+    "stop" : 1545925416860,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.cn.hogwarts.iostudy"
+  }, {
+    "name" : "testClass",
+    "value" : "com.cn.hogwarts.iostudy.ReaderDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun4"
+  }, {
+    "name" : "suite",
+    "value" : "com.cn.hogwarts.iostudy.ReaderDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "YangWang-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9808@YangWang-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c3e580366403d5ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925050203,
+        "stop" : 1545925050229,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "98aafe0dc9db44af",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924964643,
+        "stop" : 1545924964646,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "6a60001a3ca9ab60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924400340,
+        "stop" : 1545924400342,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3a6566235225091b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924050532,
+        "stop" : 1545924050533,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6f2c5c4b3efc3d46",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545923443070,
+        "stop" : 1545923443072,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3cf00d2a918d63f4.json",
+  "parameterValues" : [ ]
+}

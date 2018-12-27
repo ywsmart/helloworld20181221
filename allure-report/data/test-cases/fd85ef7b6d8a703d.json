@@ -1,0 +1,47 @@
+{
+  "uid" : "fd85ef7b6d8a703d",
+  "name" : "fun",
+  "fullName" : "com.cn.hogwarts.iostudy.StreamDemoTest.fun",
+  "historyId" : "e99a2de73efe0c8b60ee572a699a9eda",
+  "time" : {
+    "start" : 1545924964652,
+    "stop" : 1545924964654,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.cn.hogwarts.iostudy"
+  }, {
+    "name" : "testClass",
+    "value" : "com.cn.hogwarts.iostudy.StreamDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun"
+  }, {
+    "name" : "suite",
+    "value" : "com.cn.hogwarts.iostudy.StreamDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "YangWang-PC"
+  }, {
+    "name" : "thread",
+    "value" : "6784@YangWang-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd85ef7b6d8a703d.json",
+  "parameterValues" : [ ]
+}

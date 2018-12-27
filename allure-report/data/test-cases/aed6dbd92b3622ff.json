@@ -1,0 +1,89 @@
+{
+  "uid" : "aed6dbd92b3622ff",
+  "name" : "fun",
+  "fullName" : "com.cn.hogwarts.AppTest.fun",
+  "historyId" : "1f7f72700e9b2ef571e59a089e2e4447",
+  "time" : {
+    "start" : 1545925416779,
+    "stop" : 1545925416782,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.cn.hogwarts"
+  }, {
+    "name" : "testClass",
+    "value" : "com.cn.hogwarts.AppTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun"
+  }, {
+    "name" : "suite",
+    "value" : "com.cn.hogwarts.AppTest"
+  }, {
+    "name" : "host",
+    "value" : "YangWang-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9808@YangWang-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "a7cbd19dd9662e17",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925050155,
+        "stop" : 1545925050157,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c83476a70394c757",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924964581,
+        "stop" : 1545924964583,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "b3dad790d316b5a2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924400269,
+        "stop" : 1545924400272,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "8ee09e3e1dee932a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545924050470,
+        "stop" : 1545924050471,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2da80fd6b9f9e87d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545923442995,
+        "stop" : 1545923442997,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aed6dbd92b3622ff.json",
+  "parameterValues" : [ ]
+}

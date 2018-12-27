@@ -1,0 +1,165 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "com.cn.hogwarts.AppTest",
+    "children" : [ {
+      "name" : "shouldAnswerWithTrue",
+      "uid" : "4920536ca1bca70a",
+      "parentUid" : "77171f257cbdd72f3bcbc429ad731b48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416421,
+        "stop" : 1545925416428,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun",
+      "uid" : "aed6dbd92b3622ff",
+      "parentUid" : "77171f257cbdd72f3bcbc429ad731b48",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416779,
+        "stop" : 1545925416782,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "77171f257cbdd72f3bcbc429ad731b48"
+  }, {
+    "name" : "com.cn.hogwarts.iostudy.ReaderDemoTest",
+    "children" : [ {
+      "name" : "fun",
+      "uid" : "d3e16d1bdf01dac0",
+      "parentUid" : "9078b3f0d465f4c4d3952447dda5d7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416800,
+        "stop" : 1545925416802,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun1",
+      "uid" : "66bad6e27db38bd8",
+      "parentUid" : "9078b3f0d465f4c4d3952447dda5d7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416826,
+        "stop" : 1545925416828,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun2",
+      "uid" : "e7443b417df09118",
+      "parentUid" : "9078b3f0d465f4c4d3952447dda5d7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416833,
+        "stop" : 1545925416833,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun3",
+      "uid" : "30f01c8493c506d",
+      "parentUid" : "9078b3f0d465f4c4d3952447dda5d7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416852,
+        "stop" : 1545925416853,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun4",
+      "uid" : "3cf00d2a918d63f4",
+      "parentUid" : "9078b3f0d465f4c4d3952447dda5d7ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416858,
+        "stop" : 1545925416860,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "9078b3f0d465f4c4d3952447dda5d7ee"
+  }, {
+    "name" : "com.cn.hogwarts.iostudy.StreamDemoTest",
+    "children" : [ {
+      "name" : "fun",
+      "uid" : "46496d012283d69b",
+      "parentUid" : "1e5995f7ed76a3ab7f460e9dd1b7031c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416875,
+        "stop" : 1545925416876,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun1",
+      "uid" : "6b75e3a2284fd7ef",
+      "parentUid" : "1e5995f7ed76a3ab7f460e9dd1b7031c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416895,
+        "stop" : 1545925416896,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "fun2",
+      "uid" : "6d607c89e3a2e001",
+      "parentUid" : "1e5995f7ed76a3ab7f460e9dd1b7031c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1545925416912,
+        "stop" : 1545925416917,
+        "duration" : 5
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1e5995f7ed76a3ab7f460e9dd1b7031c"
+  }, {
+    "name" : "DemoTest",
+    "children" : [ {
+      "name" : "Demo1 displayname",
+      "uid" : "c5ed6585c3abcf9e",
+      "parentUid" : "16a920001b25775ca2069d00f3057c6a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1545925416972,
+        "stop" : 1545925417118,
+        "duration" : 146
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "test2",
+      "uid" : "1588236a5c24836e",
+      "parentUid" : "16a920001b25775ca2069d00f3057c6a",
+      "status" : "failed",
+      "time" : {
+        "start" : 1545925417193,
+        "stop" : 1545925417246,
+        "duration" : 53
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "16a920001b25775ca2069d00f3057c6a"
+  } ]
+}

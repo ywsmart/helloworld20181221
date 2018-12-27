@@ -1,0 +1,47 @@
+{
+  "uid" : "6f2c5c4b3efc3d46",
+  "name" : "fun4",
+  "fullName" : "com.cn.hogwarts.iostudy.ReaderDemoTest.fun4",
+  "historyId" : "2a69a51458431b93bbafdc03076dfaba",
+  "time" : {
+    "start" : 1545923443070,
+    "stop" : 1545923443072,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.cn.hogwarts.iostudy"
+  }, {
+    "name" : "testClass",
+    "value" : "com.cn.hogwarts.iostudy.ReaderDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "fun4"
+  }, {
+    "name" : "suite",
+    "value" : "com.cn.hogwarts.iostudy.ReaderDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "YangWang-PC"
+  }, {
+    "name" : "thread",
+    "value" : "660@YangWang-PC.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6f2c5c4b3efc3d46.json",
+  "parameterValues" : [ ]
+}

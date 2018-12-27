@@ -1,0 +1,121 @@
+[ {
+  "uid" : "66bad6e27db38bd8",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1545925416826,
+    "stop" : 1545925416828,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46496d012283d69b",
+  "name" : "fun",
+  "time" : {
+    "start" : 1545925416875,
+    "stop" : 1545925416876,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3e16d1bdf01dac0",
+  "name" : "fun",
+  "time" : {
+    "start" : 1545925416800,
+    "stop" : 1545925416802,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1588236a5c24836e",
+  "name" : "test2",
+  "time" : {
+    "start" : 1545925417193,
+    "stop" : 1545925417246,
+    "duration" : 53
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d607c89e3a2e001",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1545925416912,
+    "stop" : 1545925416917,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b75e3a2284fd7ef",
+  "name" : "fun1",
+  "time" : {
+    "start" : 1545925416895,
+    "stop" : 1545925416896,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5ed6585c3abcf9e",
+  "name" : "Demo1 displayname",
+  "time" : {
+    "start" : 1545925416972,
+    "stop" : 1545925417118,
+    "duration" : 146
+  },
+  "status" : "failed",
+  "severity" : "minor"
+}, {
+  "uid" : "e7443b417df09118",
+  "name" : "fun2",
+  "time" : {
+    "start" : 1545925416833,
+    "stop" : 1545925416833,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aed6dbd92b3622ff",
+  "name" : "fun",
+  "time" : {
+    "start" : 1545925416779,
+    "stop" : 1545925416782,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "30f01c8493c506d",
+  "name" : "fun3",
+  "time" : {
+    "start" : 1545925416852,
+    "stop" : 1545925416853,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4920536ca1bca70a",
+  "name" : "shouldAnswerWithTrue",
+  "time" : {
+    "start" : 1545925416421,
+    "stop" : 1545925416428,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3cf00d2a918d63f4",
+  "name" : "fun4",
+  "time" : {
+    "start" : 1545925416858,
+    "stop" : 1545925416860,
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
